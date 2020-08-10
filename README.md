@@ -1,11 +1,8 @@
 # memory-scan
 
 #### 介绍
-A kernel module for scaning page table of process/VMs
-
-#### 软件架构
-软件架构说明
-
+memory-scan is derived from memory-optimizer which is located in https://github.com/intel/memory-optimizer/tree/master/kernel
+_module. memory-scan is a kernel module for scaning page table of process/VMs.
 
 #### 安装教程
 
