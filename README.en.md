@@ -1,22 +1,13 @@
 # memory-scan
 
 #### Description
-A kernel module for scaning page table of process/VMs
-
-#### Software Architecture
-Software architecture description
+memory-scan is derived from memory-optimizer which is located in https://github.com/intel/memory-optimizer/tree/master/kernel_module. memory-scan is a kernel module for scaning page table of process/VMs.
 
 #### Installation
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+OpenEuler users can use memory-scan:
+1.  make
+2.  insmod memory_scan.ko
 
 #### Contribution
 

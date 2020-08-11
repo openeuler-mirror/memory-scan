@@ -1,23 +1,14 @@
 # memory-scan
 
 #### 介绍
-A kernel module for scaning page table of process/VMs
 
-#### 软件架构
-软件架构说明
-
+memory-scan源于memory-optimizer（https://github.com/intel/memory-optimizer/tree/master/kernel_module）。memory-scan是一个用于扫描进程或虚拟机的内存页面访问情况的内核模块。
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+OpenEuler用户可以通过以下方法使用memory-scan：
+1. make
+2. insmod memory_scan.ko
 
 #### 参与贡献
 
