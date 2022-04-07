@@ -1,0 +1,7 @@
+The memory-scan tools are provided under:
+    SPDX-License-Identifier: GPL-2.0
+
+memory-scan originates from memory-optimizer project.
+memory-optimizer: https://github.com/intel/memory-optimizer/tree/master/kernel_module
+
+memory-scan is a kernel module for scanning memory page accesses of a process or virtual machine.
